@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Azure/SkillConnect.AzureFunctions/Properties/PublishProfiles
+/Azure/SkillConnect.AzureFunctions/Properties/ServiceDependencies
+/Azure/SkillConnect.AzureFunctions/Properties/serviceDependencies.skill-connect-functions - Zip Deploy.json
+/Azure/SkillConnect.AzureFunctions/Properties/serviceDependencies.skill-connect-functions - Zip Deploy1.json
+/Azure/SkillConnect.AzureFunctions/Properties/serviceDependencies.skill-connect-functions - Zip Deploy2.json
